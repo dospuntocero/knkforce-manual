@@ -24,7 +24,7 @@ description: KNK Force Scrolls
 # List of links in the navigation bar
 navbar-links:
   Chapters:
-    - 1. Introduction to the KNK Force: "chapters/1_introduction"
+    - 1. Introduction to the KNK Force: "chapters/1_introduction/index"
     - 2. Getting Started: "chapters/2_gettings_started"
     - 3. Cutting: "chapters/3_cutting"
 
