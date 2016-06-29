@@ -41,7 +41,7 @@ Please be aware of the following safety guidelines when working with the KNK For
 - **DO NOT** allow small items to fall into the cutter.
 - **Transporting** When transporting the cutter, move the pinch wheel levers into the upward position or remove them from the Force by sliding to the far right side (as you face the front of the cutter). Remove the blade from the blade holder and cover the tip with the plastic cap. Also, remove items from the storage compartments inside the fold-down table.
 
-###Warranty
+### Warranty
 
 - **_IMPORTANT!_** If your KNK Force is damaged during shipment or appears to be defective, then your dealer should be notified as soon as possible. If damages are reported later than three weeks after delivery, then it will be the responsibility of the owner to ship the damaged cutter back to KNK USA for repair.  
 - The one year parts and labor warranty covers manufacturer’s defects only and does not include normal wear and tear. If warranty work is required, the owner is responsible for shipping costs to and from KNK USA. 
