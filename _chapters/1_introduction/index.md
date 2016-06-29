@@ -5,7 +5,7 @@ published: true
 ---
 _**Thank you for purchasing a KNK Force!**_ If you are new to digital die cutters, please read the following few paragraphs before skipping down to read the IMPORTANT section.  
 
-## Your new KNK Force has the following capabilities:
+### Your new KNK Force has the following capabilities:
 
 - Using the blade holder and any of three types of cutting blades, the Force can cut thin materials such as vinyl, paper, cardstock, poster board, Mylar, HTV, rhinestone template materials, fabric, felt, leather, craft foam, magnet sheets, acetate, chipboard, icing sheets, and more!
 - The limitations on what can be cut with a blade are based on both thickness and density of the material.  You cannot cut materials thicker than 3 mm.  Also, with the blade, you cannot cut hard acrylic, steel, glass, and other dense materials.  With some materials, such as craft plastic and styrene, you can cut thin sheets (0.02” or 0.5 mm) but not thicker sheets. A general rule of thumb is that if you can cut it with a craft knife by hand, you can mostly likely cut it with the Force blade holder.
