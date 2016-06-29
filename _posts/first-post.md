@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Introduction to the KNK Force
+published: true
 ---
 
-Thank you for purchasing a KNK Force! If you are new to digital die cutters, please read the following few paragraphs before skipping down to read the IMPORTANT section.  
+Thank you for purchasing a KNK Force! **If you are new to digital die cutters**, please read the following few paragraphs before skipping down to read the **_IMPORTANT_** section.  
 
 Your new KNK Force has the following capabilities:
 - Using the blade holder and any of three types of cutting blades, the Force can cut thin materials such as vinyl, paper, cardstock, poster board, Mylar, HTV, rhinestone template materials, fabric, felt, leather, craft foam, magnet sheets, acetate, chipboard, icing sheets, and more!
@@ -12,7 +13,7 @@ Your new KNK Force has the following capabilities:
 - The KNK Force has two tool seats on the head. This means you can perform functions such as score and cut, emboss and cut, draw and emboss, etc by having different tools inserted into the left and right sides of the machine’s head.
 - The KNK Force has a camera which facilitates calibrating the relative positions of two tools. It also is used in print and cut applications, whereby you send a design to your own printer. The image is printed, along with registrations marks. The camera then locates the registration marks on the printout and cuts out the shapes accordingly. 
 
-IMPORTANT!  The KNK Force is unlike any other blade-based cutter on the market! Regardless of your past experience with other cutters, including prior KNK models, it is VERY important that you understand the new principles behind cutting. Please take the time to read the following before trying out your new incredible machine!
+**IMPORTANT!  The KNK Force is unlike any other blade-based cutter on the market!** Regardless of your past experience with other cutters, including prior KNK models, it is VERY important that you understand the new principles behind cutting. **_Please take the time to read the following before trying out your new incredible machine!_**
 - The KNK Force has Z axis control. Instead of the head “dropping” to begin cutting, it will move downward at a controlled speed. This change was necessary for adding rotary tool capability.  It has also added a great deal of power, as well as functionality, to the cutter.  
 - The blade will now be fully extended at all times. With new depth settings, you control how “far down” the blade will try to cut.  Blades are fragile however, so use caution when inserting and removing your blade holder from the Force, as well as storing your blade holder.  Also, avoid “seeing what happens” by using extreme settings!  You can easily break a blade doing that!  
 - Every time you insert the blade holder, you will set a Z Axis origin with the blade tip resting on either the top of the material or the top of the cutting mat. Thus you will no longer need to estimate how high to insert the blade holder above the material. It’s important, when setting this origin, to not have the tool tightened within the blade holder seat until after the blade holder seat drops. The text on the screen will remind you because this is another way you can break a blade!
