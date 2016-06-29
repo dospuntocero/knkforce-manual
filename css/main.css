@@ -187,6 +187,11 @@ img {
 .navbar-custom .nav .navlinks-container {
   position: relative;
 }
+
+.navlinks-parent{
+  width:350px;
+}
+
 .navbar-custom .nav .navlinks-parent:after {
   content: " \25BC";
 }
