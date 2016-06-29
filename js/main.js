@@ -52,7 +52,7 @@ var main = {
         $.each(words, function(id, word) {
           fakeMenu.html("<a>" + word + "</a>");
           var width =  fakeMenu.width();
-          if (width > maxwidth) {
+          if (width > 400) {
             maxwidth = width;
           }
         });
