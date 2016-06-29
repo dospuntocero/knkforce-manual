@@ -90,6 +90,13 @@ defaults:
       comments: true  # add comments to all blog posts
   -
     scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "post"
+      comments: false  # add comments to all blog posts
+  -
+    scope:
       path: "" # all files
     values:
       layout: "page"
